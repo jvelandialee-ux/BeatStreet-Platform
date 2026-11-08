@@ -7,7 +7,7 @@ function Footer() {
         <div className="row g-4">
 
           <div className="col-md-4">
-            <p className="h4 fw-bold">Pixel Plaza</p>
+            <p className="h4 fw-bold">BeatStreet Platform</p>
             <p className="text-secondary mb-0">
               Plataforma dedicada a las personas entusiasmadas por la cultura hip hop.
             </p>
